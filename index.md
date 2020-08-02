@@ -40,7 +40,7 @@ For **Windows** go to base then the Download at the top
 ## RStudio  
 Before installing RStudio you need to have installed R 
 
-Go to www.rstudio.com and click on the "Download RStudio" button, Latest version 1.3.
+Go to [https://www.rstudio.com](https://www.rstudio.com) and click on the "Download RStudio" button, Latest version 1.3.
 Click on "Download RStudio Desktop."
 Click on the version installers recommended for your system, Windows, Mac and Linux are all supported.
 after install, R-Studio should recognise your default R installation, if not you may have to direct R-Studio where to go.
