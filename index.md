@@ -16,6 +16,11 @@ By attending this workshop, learners can expect to come away understanding:
 
 **Required software:** Please ensure you have a recent version of R (4.0+) and RStudio (1.3+) installed. Refer to setup instructions below if needed
 
+## Registration
+
+**A laptop is required to participate in this workshop.**
+
+Please register at [Eventbrite](https://www.eventbrite.com/e/introduction-to-rmarkdown-tickets-115659688241)
 
 # Setup
 
