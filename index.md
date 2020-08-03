@@ -20,6 +20,8 @@ By attending this workshop, learners can expect to come away understanding:
 
 **A laptop is required to participate in this workshop.**
 
+<iframe src="https://www.eventbrite.com/tickets-external?eid=115659688241&ref=etckt" frameborder="0" width="100%" height="280px" scrolling="auto"> </iframe>
+
 Please register at [Eventbrite](https://www.eventbrite.com/e/introduction-to-rmarkdown-tickets-115659688241)
 
 # Setup
